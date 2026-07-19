@@ -1,0 +1,30 @@
+Project: Resilience Under Pressure
+Course: Data Analysis and Visualization (Fall 2025)
+Group Members:
+1. Izhan Nasir (ID: 23i-2517])
+2. Ali Asjad (ID: 23i-2648)
+
+---------------------------------------------------------------------
+CONTRIBUTION BREAKDOWN
+---------------------------------------------------------------------
+
+Izhan Nasir - Data Science & Computational Modeling Lead
+--------------------------------------------------------
+- Conceptualization: Developed the project execution plan and analytical framework.
+- Data Acquisition: Sourced and merged datasets from EM-DAT, World Bank, and UNDP.
+- Data Preprocessing: Implemented python scripts for data cleaning, imputation (sticky vs. volatile handling), and feature engineering.
+- Mathematical Modeling: Formulated and coded the algorithms for the Disaster Impact Index (DII), Resilience Recovery Score (RRS), and Composite Resilience Index (CRI).
+- Python Implementation: Wrote all underlying scripts for derivation, log-transformation, and normalization.
+
+Ali Asjad - Visualization & Analytical Storytelling Lead
+-------------------------------------------------------------
+- Dashboard Architecture: Designed the three-view dashboard structure (Vulnerability, Economic, Governance).
+- Visualization Implementation: Created all Tableau visualizations including the Risk Chloropleth Maps, Treemaps, and Scatter Matrices.
+- Analytical Narrative: Developed the "Red/Blue/Green" dashboard themes and identified key insights (e.g., the "Wealth Shield" and "Stability Dividend").
+- Visual Design: Managed color logic, filtering actions, and dashboard interactivity.
+
+Joint Contributions
+-------------------
+- Collaborative review of model outputs against visual expectations.
+- Interpretation of key results (e.g., analyzing the Haiti vs. Japan disparity).
+- Final compilation and editing of the technical report.
